@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/potentiostat_proj.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>56</used>
+      <free>16328</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>263424</length>
+      <used>4485</used>
+      <free>258939</free>
+    </memory>
+  </executable>
+</project>
